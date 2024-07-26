@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_abdullah419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_abdullah419" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/abdullah.rafique.5891?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullah.rafique.5891?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/abdullah.rafique.5891?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.rafique.5891?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/i._.4bdull4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._.4bdull4h" height="30" width="40" /></a>
 </p>
 
